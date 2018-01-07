@@ -45,7 +45,7 @@ Fake是对API的轻量级实现，不适用于真正的产品。
 * Testing interactions只能保证函数被正确调用，Testing state才能真正保证结果的正确性。
 * Testing interactions不利于测试代码的维护。
 
-### 测试三部曲
+### 测试三步曲
 
 单元测试分为三个阶段：
 
