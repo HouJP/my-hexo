@@ -149,7 +149,7 @@ Tasks会通过中间队列**Blocking Queue**被提交到线程池。如果tasks�
 
 <div align=center>
 
-![executor-service-thread-pool-blocking-queue-example](img/java-concurrency-executor-service-thread-pool/executor-service-thread-pool-blocking-queue-example.jpg)
+![executor-service-thread-pool-blocking-queue-example](/img/java-concurrency-executor-service-thread-pool/executor-service-thread-pool-blocking-queue-example.jpg)
 
 </div>
 
