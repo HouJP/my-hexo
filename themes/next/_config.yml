@@ -90,7 +90,7 @@ menu:
   #categories: /categories/ || th
   archives: /archives/ || archive
   #schedule: /schedule/ || calendar
-  #sitemap: /sitemap.xml || sitemap
+  sitemap: /sitemap.xml || sitemap
   #commonweal: /404/ || heartbeat
 
 # Enable/Disable menu icons.
@@ -454,10 +454,10 @@ needmoreshare2:
 
 # Google Webmaster tools verification setting
 # See: https://www.google.com/webmasters/
-#google_site_verification:
+google_site_verification: p0bY2JfKZxHdJB1zzqM6oJfcl460YddP7aOTWJ02CE8 
 
 # Google Analytics
-#google_analytics:
+google_analytics: UA-113164362-1
 
 # Bing Webmaster tools verification setting
 # See: https://www.bing.com/webmaster/
@@ -684,7 +684,7 @@ pace: false
 #pace-theme-minimal
 # For example
 # pace_theme: pace-theme-center-simple
-pace_theme: pace-theme-minimal
+pace_theme: pace-theme-bounce
 
 # Canvas-nest
 canvas_nest: true
