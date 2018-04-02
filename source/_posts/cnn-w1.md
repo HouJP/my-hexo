@@ -155,6 +155,15 @@ $$
 Cost~J = \frac{1}{m} \sum_{i-1}^{m} \mathcal{L}(\hat{y}^{(i)}, y^{(i)})
 $$
 
+### Programming Assignments
+
+#### Convolutional Model: step by step
+
+卷积层和池化层的区别：
+
+* 卷积层中的每个filter都会同时作用在不同的channel上
+* 在池化层中，filter与channel一一对应，作用在对应的channel上
+
 ### References
 
 - [MarkDown中使用Latex数学公式](http://www.cnblogs.com/nowgood/p/Latexstart.html)
