@@ -1,17 +1,17 @@
 ---
 title: 深度学习(Deep Learning)学习资料
 date: 2017-08-25 15:53:08
-tags: [Deep Learning]
+tags: [deep-learning]
 ---
 
 ### 公开课
 
 * [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)
- * Neural Networks and Deep Learning
- * Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
- * Structuring Machine Learning Projects
- * Convolutional Neural Networks
- * Sequence Models
+   * Neural Networks and Deep Learning
+   * Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
+   * Structuring Machine Learning Projects
+   * Convolutional Neural Networks
+   * Sequence Models
 
 <!-- more -->
 
