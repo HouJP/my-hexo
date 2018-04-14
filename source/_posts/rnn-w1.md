@@ -1,5 +1,5 @@
 ---
-title: Recurrent Neural Networks
+title: Recurrent Neural Networks / Week 1
 date: 2018-04-08 07:17:30
 tags: [deep-learning, rnn]
 mathjax: true
