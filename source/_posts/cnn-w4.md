@@ -19,6 +19,8 @@ mathjax: true
 
 很明显，Recognition比Verification的难度要大得多。
 
+<!-- more -->
+
 ### One Shot Learning
 
 什么是One-shot learning，
