@@ -1,7 +1,7 @@
 ---
 title: Convolutional Neural Networks / Week 3
 date: 2018-04-06 11:24:21
-tags: [cnn, deep-learning]
+tags: [deep-learning, cnn]
 mathjax: true
 ---
 
