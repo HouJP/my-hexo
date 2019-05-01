@@ -17,5 +17,4 @@ tags: [deep-learning]
 
 ### 线性代数
 
-* 矩阵
  * [矩阵求导术（上）](https://zhuanlan.zhihu.com/p/24709748)
