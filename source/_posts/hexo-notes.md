@@ -15,3 +15,19 @@ npm install hexo-deployer-git
 ```
 
 <!-- more -->
+
+### 常用命令
+
+```shell
+# Starts a local websites.
+hexo s
+# Creates a new post.
+hexo n "post-name"
+# Cleans cache files.
+hexo clean
+# Generates hexo public files.
+hexo g
+# Deploys hexo websites.
+hexo d
+```
+
